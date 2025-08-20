@@ -2,5 +2,5 @@ from django.apps import AppConfig
 
 
 class MycontactsConfig(AppConfig):
-    default_auto_field = "django.db.models.BigAutoField"
-    name = "mycontacts"
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'mycontacts'
